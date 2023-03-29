@@ -2,7 +2,7 @@ const products = [
     {
       id: 1,
       title: 'Casio MTP-1314PL-8AVEF Classic',
-      price: 6390,
+      price: 6490,
       img: './images/casio.jpg',
       desc: `Funkcije: Datum, 
       Garancija na bateriju: 25 meseci, 
